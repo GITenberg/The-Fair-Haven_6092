@@ -1,0 +1,43 @@
+_repo: The-Fair-Haven_6092
+contributor:
+  contributor:
+    agent_name: Streatfeild, R. A. (Richard Alexander)
+    alias: Streatfeild, Richard Alexander
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6569'
+    url: http://www.gutenberg.org/2009/agents/6569
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: Although educated and trained for a career in the clergy, Samuel Butler
+  began to harbor serious doubts about his vocation and Christian morals in general
+  at an early age. Although he addressed these issues in earnest debate with his colleagues
+  and family members, Butler's confusion only worsened over time. He began to explore
+  his concerns about Victorian-era hypocrisy in writing, penning a series of philosophically
+  minded novels and social satires, The Fair Haven among them ...
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strauss, David Friedrich, 1808-1874'
+- !lcsh 'Christianity -- Controversial literature'
+- !lcsh 'Alford, Henry, 1810-1871'
+- !lcsh 'Jesus Christ -- Biography -- History and criticism'
+- !lcsh 'Jesus Christ -- Person and offices'
+- !lcsh 'Jesus Christ -- Miracles'
+- !lcc 'PR'
+- !lcc 'BT'
+title: The Fair Haven
+url: http://www.gutenberg.org/ebooks/6092
