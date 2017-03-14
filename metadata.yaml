@@ -1,5 +1,5 @@
 _repo: The-Fair-Haven_6092
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Streatfeild, R. A. (Richard Alexander)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '6569'
     url: http://www.gutenberg.org/2009/agents/6569
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Samuel
@@ -23,6 +26,8 @@ description: Although educated and trained for a career in the clergy, Samuel Bu
   and family members, Butler's confusion only worsened over time. He began to explore
   his concerns about Victorian-era hypocrisy in writing, penning a series of philosophically
   minded novels and social satires, The Fair Haven among them ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6092#The-Fair-Haven
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
