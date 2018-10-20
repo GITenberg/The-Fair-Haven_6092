@@ -1,5 +1,5 @@
 _repo: The-Fair-Haven_6092
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributor:
     agent_name: Streatfeild, R. A. (Richard Alexander)
@@ -45,5 +45,6 @@ subjects:
 - !lcsh 'Jesus Christ -- Miracles'
 - !lcc 'PR'
 - !lcc 'BT'
+- GITenberg
 title: The Fair Haven
 url: http://www.gutenberg.org/ebooks/6092
